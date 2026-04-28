@@ -1,1 +1,4 @@
+HEAD
 mainの変更 
+Aチームの変更 
+feature/edit-A
